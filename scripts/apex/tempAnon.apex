@@ -1,1 +1,0 @@
-TempClass t = new TempClass('test');

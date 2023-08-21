@@ -1,1 +1,0 @@
-SoqlDemo.queryExample1();
